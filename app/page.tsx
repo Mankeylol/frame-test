@@ -6,7 +6,7 @@ const NEXT_PUBLIC_URL = 'https://zizzamia.xyz';
 const frameMetadata = getFrameMetadata({
   buttons: [
     {
-      label: 'Click Me',
+      label: 'Mint',
     },
   ],
   image: `${NEXT_PUBLIC_URL}/park-1.png`,
